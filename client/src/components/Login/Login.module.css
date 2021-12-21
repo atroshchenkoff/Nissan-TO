@@ -1,0 +1,47 @@
+.login  {
+    display: flex;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+    padding: 100px 0 0 0;
+}
+
+.logininput {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+input[type=phone] {
+    height: 34px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    border: 1px solid white;
+    font-weight: 300;
+}
+
+input[type=password] {
+    height: 34px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    border: 1px solid white;
+    font-weight: 300;
+}
+
+input[type=email] {
+    height: 34px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    border: 1px solid white;
+    font-weight: 300;
+}
+
+input[type=name] {
+    height: 34px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    border: 1px solid white;
+    font-weight: 300;
+}
